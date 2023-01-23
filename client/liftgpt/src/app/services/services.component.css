@@ -1,0 +1,23 @@
+  .container {
+    
+    color: #fff;
+    margin-top: 50px;
+  }
+  
+  .card {
+    background-color: #fff;
+    color: #2fa4b6;
+  }
+  
+  .card-title {
+    color: #ff5722;
+  }
+  
+  .card-text {
+    color: #9e9e9e;
+  }
+  
+  .btn {
+    background-color: #ff5722;
+    color: #fff;
+  }
