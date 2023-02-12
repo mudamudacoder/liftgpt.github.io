@@ -1,0 +1,11 @@
+{
+    "server": {
+      "baseDir": "./dist/liftgpt",
+      "routes": {
+        "/node_modules": "node_modules"
+      }
+    },
+    "open": false,
+    "browser": "google chrome"
+  }
+  
